@@ -1,4 +1,4 @@
-# Cloud Native ML Deployment using Docker, Kubernetes & Terraform
+# Cloud Native ML Deployment using Docker & Kubernetes
 
 ## Project Overview
 This project demonstrates how to build and deploy a Machine Learning application using modern cloud-native technologies.
